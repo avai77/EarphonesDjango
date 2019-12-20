@@ -1,1 +1,1 @@
-web:gunicorn  shop:app --log-file=-
+web: gunicorn  EarphonesDjango1:wsgi --log-file -

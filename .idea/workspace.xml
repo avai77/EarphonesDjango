@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="870eee04-13a8-4c0c-aeb8-213386a2e354" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/psycopg2/_psycopg.cpython-37m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/myvenv/lib/python3.7/site-packages/psycopg2/_psycopg.cpython-37m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576744033087</updated>
       <workItem from="1576744037645" duration="1878000" />
-      <workItem from="1576784098809" duration="7419000" />
+      <workItem from="1576784098809" duration="7688000" />
     </task>
     <servers />
   </component>
